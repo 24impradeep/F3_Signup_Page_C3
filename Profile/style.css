@@ -1,0 +1,19 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-content {
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 3rem;
+}
+
+.userDetails>div {
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+}
